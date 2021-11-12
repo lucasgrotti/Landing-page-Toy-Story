@@ -1,6 +1,7 @@
 # Landing-page-Toy-Story
-Meu Primeiro Codigo :)
-Uma pagina de Login Simples, de acesso a uma plataforma de entretenimento da serie de filmes da Disney, Toy Story.
+Meu Primeiro Codigo :grinning: <br>
+
+Uma pagina de Login Simples, de acesso a uma plataforma de entretenimento da série de filmes da Disney, Toy Story.
 
 :computer:Tecnologias Usadas:
 -HTML

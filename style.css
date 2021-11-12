@@ -1,0 +1,98 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+body{
+    background-image: url(backgroundtoystor.jfif);
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 33px;
+}
+
+p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;  color: #5C5C5C;
+}
+
+.container {
+    display: flex;
+    justify-content: center;    align-items: center;
+}
+
+
+.tela {
+    background: radial-gradient(91.5% 91.5% at 8.52% 8.5%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.48) 100%);
+    width: 500px;
+    height: fit-content;
+    border-radius: 10px;
+    display: grid;
+    justify-content: center;
+    border-radius: 33px;
+    backdrop-filter: blur(20px);
+}
+
+.user, .pass {
+    
+
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.user::placeholder, .pass::placeholder{
+    text-align: start;
+    color: #000;
+}
+
+.login-button{
+    margin-bottom: 40px;
+    border-style: none;
+    cursor: pointer;
+    background: linear-gradient(90.61deg, #4CAF50 15.7%, #95D079 96.23%);
+    mix-blend-mode: normal;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    height: 40px;
+    border: none;
+    margin-top: 30px;
+    height: 40px;
+}
+
+button{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    mix-blend-mode: normal;
+    border: 2px solid #292929;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: transparent;
+    margin-top: 70px;
+    height: 49px;
+    margin-top: 10px;}
+
+.logo img{
+
+        position: absolute;
+        width: 104.09px;
+        height: 114px;
+        left: 54px;
+        top: 47px;
+        object-fit: cover; 
+    }
+    
